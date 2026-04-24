@@ -1,0 +1,424 @@
+<svg viewBox="0 0 1440 1100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" style="max-width:100vw;max-height:100vh;display:block;margin:auto;">
+	<defs>
+		<clipPath id="clipPath_0">
+			<rect width="1343" height="243" x="49" y="98" fill="#fff"/>
+		</clipPath>
+		<clipPath id="clipPath_1">
+			<rect width="1343" height="243" x="49" y="428" fill="#fff"/>
+		</clipPath>
+		<clipPath id="clipPath_2">
+			<rect width="1343" height="243" x="49" y="758" fill="#fff"/>
+		</clipPath>
+	</defs>
+	<rect width="100%" height="100%" fill="#fff"/>
+	
+	<!-- 第一排原位组 -->
+	<g clip-path="url(#clipPath_0)">
+		<foreignObject id="origin-0" x="49" y="98" width="318" height="243" style="cursor:pointer;transition:opacity 0.3s ease-in-out;">
+			<div xmlns="http://www.w3.org/1999/xhtml" class="container" style="width:100%;height:100%;border-radius:16px;overflow:hidden;position:relative;">
+				<video width="100%" height="100%" style="object-fit:contain;position:absolute;top:0;left:0;" autoplay="autoplay" muted="muted" loop="loop" playsinline="playsinline">
+					<source src="video-con/Health Insurance.mp4" type="video/mp4"/>
+				</video>
+				<div class="hover-overlay">
+					<div class="zoom-btn">
+						<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0"/><path d="M7 10l6 0"/><path d="M10 7l0 6"/><path d="M21 21l-6 -6"/></svg>
+					</div>
+				</div>
+			</div>
+		</foreignObject>
+		<foreignObject id="origin-1" x="391" y="98" width="318" height="243" style="cursor:pointer;transition:opacity 0.3s ease-in-out;">
+			<div xmlns="http://www.w3.org/1999/xhtml" class="container" style="width:100%;height:100%;border-radius:16px;overflow:hidden;position:relative;">
+				<video width="100%" height="100%" style="object-fit:contain;position:absolute;top:0;left:0;" autoplay="autoplay" muted="muted" loop="loop" playsinline="playsinline">
+					<source src="video-con/lab 实验室.mp4" type="video/mp4"/>
+				</video>
+				<div class="hover-overlay">
+					<div class="zoom-btn">
+						<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0"/><path d="M7 10l6 0"/><path d="M10 7l0 6"/><path d="M21 21l-6 -6"/></svg>
+					</div>
+				</div>
+			</div>
+		</foreignObject>
+		<foreignObject id="origin-2" x="733" y="98" width="317" height="243" style="cursor:pointer;transition:opacity 0.3s ease-in-out;">
+			<div xmlns="http://www.w3.org/1999/xhtml" class="container" style="width:100%;height:100%;border-radius:16px;overflow:hidden;position:relative;">
+				<video width="100%" height="100%" style="object-fit:contain;position:absolute;top:0;left:0;" autoplay="autoplay" muted="muted" loop="loop" playsinline="playsinline">
+					<source src="video-con/mco.mp4" type="video/mp4"/>
+				</video>
+				<div class="hover-overlay">
+					<div class="zoom-btn">
+						<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0"/><path d="M7 10l6 0"/><path d="M10 7l0 6"/><path d="M21 21l-6 -6"/></svg>
+					</div>
+				</div>
+			</div>
+		</foreignObject>
+		<foreignObject id="origin-3" x="1074" y="98" width="318" height="243" style="cursor:pointer;transition:opacity 0.3s ease-in-out;">
+			<div xmlns="http://www.w3.org/1999/xhtml" class="container" style="width:100%;height:100%;border-radius:16px;overflow:hidden;position:relative;">
+				<video width="100%" height="100%" style="object-fit:contain;position:absolute;top:0;left:0;" autoplay="autoplay" muted="muted" loop="loop" playsinline="playsinline">
+					<source src="video-con/个人画展.mp4" type="video/mp4"/>
+				</video>
+				<div class="hover-overlay">
+					<div class="zoom-btn">
+						<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0"/><path d="M7 10l6 0"/><path d="M10 7l0 6"/><path d="M21 21l-6 -6"/></svg>
+					</div>
+				</div>
+			</div>
+		</foreignObject>
+	</g>
+	
+	<!-- 第二排原位组 -->
+	<g clip-path="url(#clipPath_1)">
+		<foreignObject id="origin-4" x="49" y="428" width="318" height="243" style="cursor:pointer;transition:opacity 0.3s ease-in-out;">
+			<div xmlns="http://www.w3.org/1999/xhtml" class="container" style="width:100%;height:100%;border-radius:16px;overflow:hidden;position:relative;">
+				<video width="100%" height="100%" style="object-fit:contain;position:absolute;top:0;left:0;" autoplay="autoplay" muted="muted" loop="loop" playsinline="playsinline">
+					<source src="video-con/健康戒指.mp4" type="video/mp4"/>
+				</video>
+				<div class="hover-overlay">
+					<div class="zoom-btn">
+						<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0"/><path d="M7 10l6 0"/><path d="M10 7l0 6"/><path d="M21 21l-6 -6"/></svg>
+					</div>
+				</div>
+			</div>
+		</foreignObject>
+		<foreignObject id="origin-5" x="391" y="428" width="318" height="243" style="cursor:pointer;transition:opacity 0.3s ease-in-out;">
+			<div xmlns="http://www.w3.org/1999/xhtml" class="container" style="width:100%;height:100%;border-radius:16px;overflow:hidden;position:relative;">
+				<video width="100%" height="100%" style="object-fit:contain;position:absolute;top:0;left:0;" autoplay="autoplay" muted="muted" loop="loop" playsinline="playsinline">
+					<source src="video-con/充电桩.mp4" type="video/mp4"/>
+				</video>
+				<div class="hover-overlay">
+					<div class="zoom-btn">
+						<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0"/><path d="M7 10l6 0"/><path d="M10 7l0 6"/><path d="M21 21l-6 -6"/></svg>
+					</div>
+				</div>
+			</div>
+		</foreignObject>
+		<foreignObject id="origin-6" x="733" y="428" width="317" height="243" style="cursor:pointer;transition:opacity 0.3s ease-in-out;">
+			<div xmlns="http://www.w3.org/1999/xhtml" class="container" style="width:100%;height:100%;border-radius:16px;overflow:hidden;position:relative;">
+				<video width="100%" height="100%" style="object-fit:contain;position:absolute;top:0;left:0;" autoplay="autoplay" muted="muted" loop="loop" playsinline="playsinline">
+					<source src="video-con/名片管理.mp4" type="video/mp4"/>
+				</video>
+				<div class="hover-overlay">
+					<div class="zoom-btn">
+						<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0"/><path d="M7 10l6 0"/><path d="M10 7l0 6"/><path d="M21 21l-6 -6"/></svg>
+					</div>
+				</div>
+			</div>
+		</foreignObject>
+		<foreignObject id="origin-7" x="1074" y="428" width="318" height="243" style="cursor:pointer;transition:opacity 0.3s ease-in-out;">
+			<div xmlns="http://www.w3.org/1999/xhtml" class="container" style="width:100%;height:100%;border-radius:16px;overflow:hidden;position:relative;">
+				<video width="100%" height="100%" style="object-fit:contain;position:absolute;top:0;left:0;" autoplay="autoplay" muted="muted" loop="loop" playsinline="playsinline">
+					<source src="video-con/心情记录.mp4" type="video/mp4"/>
+				</video>
+				<div class="hover-overlay">
+					<div class="zoom-btn">
+						<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0"/><path d="M7 10l6 0"/><path d="M10 7l0 6"/><path d="M21 21l-6 -6"/></svg>
+					</div>
+				</div>
+			</div>
+		</foreignObject>
+	</g>
+	
+	<!-- 第三排原位组 -->
+	<g clip-path="url(#clipPath_2)">
+		<foreignObject id="origin-8" x="49" y="758" width="318" height="243" style="cursor:pointer;transition:opacity 0.3s ease-in-out;">
+			<div xmlns="http://www.w3.org/1999/xhtml" class="container" style="width:100%;height:100%;border-radius:16px;overflow:hidden;position:relative;">
+				<video width="100%" height="100%" style="object-fit:contain;position:absolute;top:0;left:0;" autoplay="autoplay" muted="muted" loop="loop" playsinline="playsinline">
+					<source src="video-con/酒店.mp4" type="video/mp4"/>
+				</video>
+				<div class="hover-overlay">
+					<div class="zoom-btn">
+						<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0"/><path d="M7 10l6 0"/><path d="M10 7l0 6"/><path d="M21 21l-6 -6"/></svg>
+					</div>
+				</div>
+			</div>
+		</foreignObject>
+		<foreignObject id="origin-9" x="391" y="758" width="318" height="243" style="cursor:pointer;transition:opacity 0.3s ease-in-out;">
+			<div xmlns="http://www.w3.org/1999/xhtml" class="container" style="width:100%;height:100%;border-radius:16px;overflow:hidden;position:relative;">
+				<video width="100%" height="100%" style="object-fit:contain;position:absolute;top:0;left:0;" autoplay="autoplay" muted="muted" loop="loop" playsinline="playsinline">
+					<source src="video-con/音乐.mp4" type="video/mp4"/>
+				</video>
+				<div class="hover-overlay">
+					<div class="zoom-btn">
+						<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0"/><path d="M7 10l6 0"/><path d="M10 7l0 6"/><path d="M21 21l-6 -6"/></svg>
+					</div>
+				</div>
+			</div>
+		</foreignObject>
+		<foreignObject id="origin-10" x="733" y="758" width="317" height="243" style="cursor:pointer;transition:opacity 0.3s ease-in-out;">
+			<div xmlns="http://www.w3.org/1999/xhtml" class="container" style="width:100%;height:100%;border-radius:16px;overflow:hidden;position:relative;">
+				<video width="100%" height="100%" style="object-fit:contain;position:absolute;top:0;left:0;" autoplay="autoplay" muted="muted" loop="loop" playsinline="playsinline">
+					<source src="video-con/达人.mp4" type="video/mp4"/>
+				</video>
+				<div class="hover-overlay">
+					<div class="zoom-btn">
+						<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0"/><path d="M7 10l6 0"/><path d="M10 7l0 6"/><path d="M21 21l-6 -6"/></svg>
+					</div>
+				</div>
+			</div>
+		</foreignObject>
+		<foreignObject id="origin-11" x="1074" y="758" width="318" height="243" style="cursor:pointer;transition:opacity 0.3s ease-in-out;">
+			<div xmlns="http://www.w3.org/1999/xhtml" class="container" style="width:100%;height:100%;border-radius:16px;overflow:hidden;position:relative;">
+				<video width="100%" height="100%" style="object-fit:contain;position:absolute;top:0;left:0;" autoplay="autoplay" muted="muted" loop="loop" playsinline="playsinline">
+					<source src="video-con/马里奥.mp4" type="video/mp4"/>
+				</video>
+				<div class="hover-overlay">
+					<div class="zoom-btn">
+						<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0"/><path d="M7 10l6 0"/><path d="M10 7l0 6"/><path d="M21 21l-6 -6"/></svg>
+					</div>
+				</div>
+			</div>
+		</foreignObject>
+	</g>
+	
+	<!-- 12个放大版容器（最顶层） -->
+	<foreignObject id="zoom-0" x="49" y="98" width="318" height="243" style="cursor:pointer;opacity:0;pointer-events:none;transition:opacity 0.3s ease-in-out;">
+		<div xmlns="http://www.w3.org/1999/xhtml" class="zoom-container" style="width:100%;height:100%;border-radius:16px;overflow:hidden;background:#ffffff;">
+			<video width="100%" height="100%" style="object-fit:contain;" autoplay="autoplay" muted="muted" loop="loop" playsinline="playsinline">
+				<source src="video-con/Health Insurance.mp4" type="video/mp4"/>
+			</video>
+		</div>
+	</foreignObject>
+	<foreignObject id="zoom-1" x="391" y="98" width="318" height="243" style="cursor:pointer;opacity:0;pointer-events:none;transition:opacity 0.3s ease-in-out;">
+		<div xmlns="http://www.w3.org/1999/xhtml" class="zoom-container" style="width:100%;height:100%;border-radius:16px;overflow:hidden;background:#ffffff;">
+			<video width="100%" height="100%" style="object-fit:contain;" autoplay="autoplay" muted="muted" loop="loop" playsinline="playsinline">
+				<source src="video-con/lab 实验室.mp4" type="video/mp4"/>
+			</video>
+		</div>
+	</foreignObject>
+	<foreignObject id="zoom-2" x="733" y="98" width="317" height="243" style="cursor:pointer;opacity:0;pointer-events:none;transition:opacity 0.3s ease-in-out;">
+		<div xmlns="http://www.w3.org/1999/xhtml" class="zoom-container" style="width:100%;height:100%;border-radius:16px;overflow:hidden;background:#ffffff;">
+			<video width="100%" height="100%" style="object-fit:contain;" autoplay="autoplay" muted="muted" loop="loop" playsinline="playsinline">
+				<source src="video-con/mco.mp4" type="video/mp4"/>
+			</video>
+		</div>
+	</foreignObject>
+	<foreignObject id="zoom-3" x="1074" y="98" width="318" height="243" style="cursor:pointer;opacity:0;pointer-events:none;transition:opacity 0.3s ease-in-out;">
+		<div xmlns="http://www.w3.org/1999/xhtml" class="zoom-container" style="width:100%;height:100%;border-radius:16px;overflow:hidden;background:#ffffff;">
+			<video width="100%" height="100%" style="object-fit:contain;" autoplay="autoplay" muted="muted" loop="loop" playsinline="playsinline">
+				<source src="video-con/个人画展.mp4" type="video/mp4"/>
+			</video>
+		</div>
+	</foreignObject>
+	<foreignObject id="zoom-4" x="49" y="428" width="318" height="243" style="cursor:pointer;opacity:0;pointer-events:none;transition:opacity 0.3s ease-in-out;">
+		<div xmlns="http://www.w3.org/1999/xhtml" class="zoom-container" style="width:100%;height:100%;border-radius:16px;overflow:hidden;background:#ffffff;">
+			<video width="100%" height="100%" style="object-fit:contain;" autoplay="autoplay" muted="muted" loop="loop" playsinline="playsinline">
+				<source src="video-con/健康戒指.mp4" type="video/mp4"/>
+			</video>
+		</div>
+	</foreignObject>
+	<foreignObject id="zoom-5" x="391" y="428" width="318" height="243" style="cursor:pointer;opacity:0;pointer-events:none;transition:opacity 0.3s ease-in-out;">
+		<div xmlns="http://www.w3.org/1999/xhtml" class="zoom-container" style="width:100%;height:100%;border-radius:16px;overflow:hidden;background:#ffffff;">
+			<video width="100%" height="100%" style="object-fit:contain;" autoplay="autoplay" muted="muted" loop="loop" playsinline="playsinline">
+				<source src="video-con/充电桩.mp4" type="video/mp4"/>
+			</video>
+		</div>
+	</foreignObject>
+	<foreignObject id="zoom-6" x="733" y="428" width="317" height="243" style="cursor:pointer;opacity:0;pointer-events:none;transition:opacity 0.3s ease-in-out;">
+		<div xmlns="http://www.w3.org/1999/xhtml" class="zoom-container" style="width:100%;height:100%;border-radius:16px;overflow:hidden;background:#ffffff;">
+			<video width="100%" height="100%" style="object-fit:contain;" autoplay="autoplay" muted="muted" loop="loop" playsinline="playsinline">
+				<source src="video-con/名片管理.mp4" type="video/mp4"/>
+			</video>
+		</div>
+	</foreignObject>
+	<foreignObject id="zoom-7" x="1074" y="428" width="318" height="243" style="cursor:pointer;opacity:0;pointer-events:none;transition:opacity 0.3s ease-in-out;">
+		<div xmlns="http://www.w3.org/1999/xhtml" class="zoom-container" style="width:100%;height:100%;border-radius:16px;overflow:hidden;background:#ffffff;">
+			<video width="100%" height="100%" style="object-fit:contain;" autoplay="autoplay" muted="muted" loop="loop" playsinline="playsinline">
+				<source src="video-con/心情记录.mp4" type="video/mp4"/>
+			</video>
+		</div>
+	</foreignObject>
+	<foreignObject id="zoom-8" x="49" y="758" width="318" height="243" style="cursor:pointer;opacity:0;pointer-events:none;transition:opacity 0.3s ease-in-out;">
+		<div xmlns="http://www.w3.org/1999/xhtml" class="zoom-container" style="width:100%;height:100%;border-radius:16px;overflow:hidden;background:#ffffff;">
+			<video width="100%" height="100%" style="object-fit:contain;" autoplay="autoplay" muted="muted" loop="loop" playsinline="playsinline">
+				<source src="video-con/酒店.mp4" type="video/mp4"/>
+			</video>
+		</div>
+	</foreignObject>
+	<foreignObject id="zoom-9" x="391" y="758" width="318" height="243" style="cursor:pointer;opacity:0;pointer-events:none;transition:opacity 0.3s ease-in-out;">
+		<div xmlns="http://www.w3.org/1999/xhtml" class="zoom-container" style="width:100%;height:100%;border-radius:16px;overflow:hidden;background:#ffffff;">
+			<video width="100%" height="100%" style="object-fit:contain;" autoplay="autoplay" muted="muted" loop="loop" playsinline="playsinline">
+				<source src="video-con/音乐.mp4" type="video/mp4"/>
+			</video>
+		</div>
+	</foreignObject>
+	<foreignObject id="zoom-10" x="733" y="758" width="317" height="243" style="cursor:pointer;opacity:0;pointer-events:none;transition:opacity 0.3s ease-in-out;">
+		<div xmlns="http://www.w3.org/1999/xhtml" class="zoom-container" style="width:100%;height:100%;border-radius:16px;overflow:hidden;background:#ffffff;">
+			<video width="100%" height="100%" style="object-fit:contain;" autoplay="autoplay" muted="muted" loop="loop" playsinline="playsinline">
+				<source src="video-con/达人.mp4" type="video/mp4"/>
+			</video>
+		</div>
+	</foreignObject>
+	<foreignObject id="zoom-11" x="1074" y="758" width="318" height="243" style="cursor:pointer;opacity:0;pointer-events:none;transition:opacity 0.3s ease-in-out;">
+		<div xmlns="http://www.w3.org/1999/xhtml" class="zoom-container" style="width:100%;height:100%;border-radius:16px;overflow:hidden;background:#ffffff;">
+			<video width="100%" height="100%" style="object-fit:contain;" autoplay="autoplay" muted="muted" loop="loop" playsinline="playsinline">
+				<source src="video-con/马里奥.mp4" type="video/mp4"/>
+			</video>
+		</div>
+	</foreignObject>
+	
+	<style>
+		.container:hover .hover-overlay {
+			opacity: 1;
+		}
+		.hover-overlay {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background: rgba(0,0,0,0.3);
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			opacity: 0;
+			transition: opacity 0.3s ease-in-out;
+			pointer-events: none;
+			z-index: 10;
+		}
+		.zoom-btn {
+			width: 56px;
+			height: 56px;
+			background: rgba(0,0,0,0.6);
+			border-radius: 50%;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			pointer-events: none;
+			z-index: 11;
+		}
+		.zoom-btn svg {
+			pointer-events: none;
+		}
+	</style>
+	
+	<script type="text/javascript"><![CDATA[
+		(function() {
+			var macaronColors = [
+				'#FFB7C5', '#FFC8DD', '#FFDAE9', '#FDD5E7', '#F8C8DC', '#E8D5E4',
+				'#D4E8ED', '#C5E8EE', '#B5E4E7', '#DDEFEF', '#D0EBE8', '#C4E8DA',
+				'#D4E8CF', '#E0F0D4', '#E8E8C4', '#F0E8C4', '#F5E8C4', '#F8E4C4',
+				'#F8DED4', '#F5E0D5', '#E8E0F0', '#DDD4E8', '#D5C8E8', '#C8D0E8', '#B5C8E8'
+			];
+			
+			function getRandomColor() {
+				return macaronColors[Math.floor(Math.random() * macaronColors.length)];
+			}
+			
+			var containers = document.querySelectorAll('.container');
+			containers.forEach(function(c) {
+				c.style.background = getRandomColor();
+			});
+			
+			var isAnimating = false;
+			var zoomedIndex = -1;
+			var zoomState = { x: 120, y: 91.3208, w: 1200, h: 917.3585 };
+			
+			// 适配可视区域并居中
+			function fitToViewport() {
+				var svg = document.querySelector('svg');
+				var windowWidth = window.innerWidth;
+				var windowHeight = window.innerHeight;
+				var svgAspect = 1440 / 1100;
+				var windowAspect = windowWidth / windowHeight;
+				
+				if (windowAspect > svgAspect) {
+					// 窗口更宽，按高度缩放
+					svg.style.height = '100vh';
+					svg.style.width = 'auto';
+				} else {
+					// 窗口更高，按宽度缩放
+					svg.style.width = '100vw';
+					svg.style.height = 'auto';
+				}
+				
+				// 居中
+				svg.style.position = 'absolute';
+				svg.style.top = '50%';
+				svg.style.left = '50%';
+				svg.style.transform = 'translate(-50%, -50%)';
+			}
+			
+			fitToViewport();
+			window.addEventListener('resize', fitToViewport);
+			var animDuration = 500;
+			
+			function easeInOutCubic(t) {
+				return t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2;
+			}
+			
+			for (var i = 0; i < 12; i++) {
+				(function(index) {
+					var originEl = document.getElementById('origin-' + index);
+					var zoomEl = document.getElementById('zoom-' + index);
+					
+					var originState = {
+						x: parseFloat(originEl.getAttribute('x')),
+						y: parseFloat(originEl.getAttribute('y')),
+						w: parseFloat(originEl.getAttribute('width')),
+						h: parseFloat(originEl.getAttribute('height'))
+					};
+					
+					function animateTo(el, target, onComplete) {
+						var startX = parseFloat(el.getAttribute('x'));
+						var startY = parseFloat(el.getAttribute('y'));
+						var startW = parseFloat(el.getAttribute('width'));
+						var startH = parseFloat(el.getAttribute('height'));
+						var startTime = performance.now();
+						
+						function step(now) {
+							var elapsed = now - startTime;
+							var progress = Math.min(elapsed / animDuration, 1);
+							var eased = easeInOutCubic(progress);
+							
+							var currentX = startX + (target.x - startX) * eased;
+							var currentY = startY + (target.y - startY) * eased;
+							var currentW = startW + (target.w - startW) * eased;
+							var currentH = startH + (target.h - startH) * eased;
+							
+							el.setAttribute('x', currentX);
+							el.setAttribute('y', currentY);
+							el.setAttribute('width', currentW);
+							el.setAttribute('height', currentH);
+							
+							if (progress < 1) {
+								requestAnimationFrame(step);
+							} else {
+								isAnimating = false;
+								if (onComplete) onComplete();
+							}
+						}
+						
+						isAnimating = true;
+						requestAnimationFrame(step);
+					}
+					
+					function zoomIn() {
+						if (isAnimating || zoomedIndex !== -1) return;
+						
+						originEl.style.opacity = '0';
+						
+						setTimeout(function() {
+							zoomEl.style.opacity = '1';
+							zoomEl.style.pointerEvents = 'auto';
+							animateTo(zoomEl, zoomState, function() {
+								zoomedIndex = index;
+							});
+						}, 50);
+					}
+					
+					function zoomOut() {
+						if (isAnimating || zoomedIndex !== index) return;
+						
+						animateTo(zoomEl, originState, function() {
+							zoomEl.style.opacity = '0';
+							zoomEl.style.pointerEvents = 'none';
+							originEl.style.opacity = '1';
+							zoomedIndex = -1;
+						});
+					}
+					
+					originEl.addEventListener('click', zoomIn);
+					zoomEl.addEventListener('click', zoomOut);
+				})(i);
+			}
+		})();
+	]]></script>
+</svg>
